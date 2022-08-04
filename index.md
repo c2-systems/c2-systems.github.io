@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Command and Control Systems
 
 You can use the [editor on GitHub](https://github.com/c2-systems/c2-systems.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
